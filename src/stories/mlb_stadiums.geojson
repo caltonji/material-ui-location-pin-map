@@ -1,0 +1,440 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.88174262759796,
+          33.8002599
+        ]
+      },
+      "properties": {
+        "Title": "Angel Stadium",
+        "Subtitle": "2000 E Gene Autry Way, Anaheim, CA 92806",
+        "Description": "Angel Stadium is a ballpark in Anaheim, California, United States. Since its opening 58 years ago in 1966, it has been the home venue of the Los Angeles Angels of Major League Baseball (MLB). It was also the home of the Los Angeles Rams of the National Football League (NFL) from 1980 to 1994.\nThe stadium is often referred to by its unofficial nickname The Big A, coined by Herald Examiner Sports Editor, Bud Furillo. It is the fourth-oldest active ballpark in the majors, behind Fenway Park, Wrigley Field, and Dodger Stadium. The stadium hosted the MLB All-Star Game three times in 1967, 1989, and 2010, as well as hosted the World Series in 2002.\nAside from professional baseball and football, Angel Stadium has hosted high school and college football games, the short-lived World Football League, two crusades by evangelist Billy Graham, 20 consecutive annual crusades by evangelist Greg Laurie, Eid el Fitr celebrations, concerts, and 2 to 3 AMA Supercross Championship races a year.\nThe stadium also houses the studios and offices of the Angels' owned and operated flagship radio station, KLAA (830 AM)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0679106,
+          33.4461581
+        ]
+      },
+      "properties": {
+        "Title": "Chase Field",
+        "Subtitle": "401 E Jefferson St, Phoenix, AZ 85004",
+        "Description": "Chase Field, formerly Bank One Ballpark, is a retractable-roof stadium in Downtown Phoenix, Arizona. It is the ballpark of Major League Baseball's Arizona Diamondbacks. It opened in 1998, the year the Diamondbacks debuted as an expansion team. Chase Field was the first stadium built in the United States with a retractable roof over a natural grass playing surface, although it has used artificial turf since 2019."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84587884942417,
+          40.757277849999994
+        ]
+      },
+      "properties": {
+        "Title": "Citi Field",
+        "Subtitle": "41 Seaver Way, Queens, NY 11368",
+        "Description": "Citi Field is a baseball stadium located in Flushing Meadows\u2013Corona Park, in the borough of Queens, New York City, United States. Opened in 2009, Citi Field is the home of Major League Baseball\u2019s New York Mets. The ballpark was built as a replacement for the adjacent Shea Stadium, which had opened in 1964.\nCiti Field was designed by the company Populous. The $850 million baseball park was funded with $615 million in public subsidies, including the sale of New York City municipal bonds that are to be repaid by the Mets with interest. The payments will offset property taxes for the lifetime of the park.\nThe first game at Citi Field was on March 29, 2009, with a college baseball game between the St. John's Red Storm and Georgetown Hoyas. The Mets played their first two games at the ballpark on April 3 and 4, 2009 against the Boston Red Sox as charity exhibition games. The first regular-season home game was played on April 13, 2009, against the San Diego Padres. Citi Field hosted the 2013 Major League Baseball All-Star Game, marking the second time the Mets have hosted the event (the first being in 1964, the inaugural season of Shea Stadium).\nThe naming rights were purchased by Citigroup, a New York financial services company, for $20 million annually."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.051314,
+          42.337813
+        ]
+      },
+      "properties": {
+        "Title": "Comerica Park",
+        "Subtitle": "2100 Woodward Ave, Detroit, MI 48201",
+        "Description": "Comerica Park is a baseball stadium located in Downtown Detroit. It has been the ballpark of Major League Baseball's Detroit Tigers since 2000, when the team left Tiger Stadium."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.99292855531493,
+          39.7560314
+        ]
+      },
+      "properties": {
+        "Title": "Coors Field",
+        "Subtitle": "2001 Blake St, Denver, CO 80205",
+        "Description": "Coors Field is a baseball stadium in downtown Denver, Colorado. It is the ballpark of Major League Baseball's Colorado Rockies. Opened in 1995, the park is located in Denver's Lower Downtown neighborhood, two blocks from Union Station. The stadium has a capacity of 50,144 people for baseball.\nAs an expansion team that began play in 1993, the Rockies spent their first two seasons at Mile High Stadium. During that time, Coors Field was constructed for a cost of $300 million. It includes 63 luxury suites and 4,526 club seats. Coors Field has earned a reputation as a hitter's park, due to the effect of Denver's high elevation and semi-arid climate on the distances of batted balls. To combat this, the outfield fences were positioned farther away from home plate and baseballs used in the park have been pre-stored in humidors.\nCoors Field has hosted the 1998 MLB All-Star Game and the 2021 MLB All-Star Game. Coors has also hosted an outdoor hockey game from the 2016 NHL Stadium Series, along with numerous concerts.\nIn 2017, a consultant determined that Coors Field would require $200 million in capital improvements in the 2020s. To fund those improvements, the Rockies agreed to a long-term lease to develop club-owned nearby land.\n\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23897581574036,
+          34.0736263
+        ]
+      },
+      "properties": {
+        "Title": "Dodger Stadium",
+        "Subtitle": "1000 Vin Scully Ave, Los Angeles, CA 90012",
+        "Description": "Dodger Stadium is a ballpark in the Elysian Park neighborhood of Los Angeles, California. It is the home of the Los Angeles Dodgers of Major League Baseball (MLB). Opened in 1962, it was constructed in less than three years at a cost of  US$23 million (US$232 million in 2023). It is the oldest ballpark in MLB west of the Mississippi River, and third-oldest overall, after Fenway Park in Boston (1912) and Wrigley Field in Chicago (1914), and is the largest baseball stadium in the world by seat capacity. Often referred to as a \"pitcher's ballpark\", the stadium has seen 13 no-hitters, 2 of which were perfect games.\nThe stadium hosted the Major League Baseball All-Star Game in 1980 and 2022, as well as the World Series eleven times (1963, 1965, 1966, 1974, 1977, 1978, 1981, 1988, 2017, 2018, and 2024). It also hosted the semifinals and finals of the 2009 and 2017 World Baseball Classics, as well as exhibition baseball during the 1984 Summer Olympics. The stadium hosted a soccer tournament on August 3, 2013, featuring four clubs: the hometown team Los Angeles Galaxy, and Europe's Real Madrid, Everton, and Juventus. The Los Angeles Kings and Anaheim Ducks played a regular season game in 2014 as part of the NHL Stadium Series. The stadium was also the home of the Los Angeles Angels from 1962 through 1965.\nThe stadium is commonly referred to as Chavez Ravine Stadium (or just \"Chavez Ravine\"), after the geographic feature in which the stadium sits. It is sometimes referred to as \"Blue Heaven on Earth,\" a nickname coined by Dodgers manager Tommy Lasorda."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09847498229185,
+          42.346138684588645
+        ]
+      },
+      "properties": {
+        "Title": "Fenway Park",
+        "Subtitle": "4 Jersey St, Boston, MA 02215",
+        "Description": "Fenway Park is a baseball stadium located in Boston, Massachusetts, less than one mile from Kenmore Square. Since 1912, it has been the ballpark of Major League Baseball's (MLB) Boston Red Sox.   While the stadium was built in 1912, it was substantially rebuilt in 1934, and underwent major renovations and modifications in the 21st century.\nIt is the oldest active ballpark in MLB. Because of its age and constrained location in Boston's dense Fenway\u2013Kenmore neighborhood, the park has many quirky features, including \"The Triangle\", Pesky's Pole, and the Green Monster in left field. It is the fifth-smallest among MLB ballparks by seating capacity, second-smallest by total capacity, and one of nine that cannot accommodate at least 40,000 spectators.\nFenway has hosted the World Series 11 times, with the Red Sox winning six of them and the Boston Braves winning one. Besides baseball games, it has also been the site of many other sporting and cultural events including professional football games for the Boston Redskins, Boston Yanks, and the Boston Patriots; concerts; soccer and hockey games (such as the 2010 NHL Winter Classic); and political and religious campaigns.\nOn March 7, 2012 (Fenway's centennial year), the park was added to the National Register of Historic Places. It is a landmark at the end of the Boston Irish heritage trail. Former pitcher Bill Lee has called Fenway Park \"a shrine\". It is a pending Boston Landmark, which will regulate any further changes to the park. The ballpark is considered to be one of the most well-known sports venues in the world and a symbol of Boston."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.08410630166019,
+          32.74760655
+        ]
+      },
+      "properties": {
+        "Title": "Globe Life Field",
+        "Subtitle": "734 Stadium Dr, Arlington, TX 76011",
+        "Description": "Globe Life Field is a retractable roof stadium in Arlington, Texas, United States. It is the home ballpark of Major League Baseball's Texas Rangers. It is located just south of the Rangers' former home ballpark, Globe Life Park (originally known as The Ballpark in Arlington and renamed Choctaw Stadium after the Rangers' departure and subsequent reconfiguration)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5084746037945,
+          39.097592
+        ]
+      },
+      "properties": {
+        "Title": "Great American Ball Park",
+        "Subtitle": "100 Joe Nuxhall Way, Cincinnati, OH 45202",
+        "Description": "Great American Ball Park is a baseball stadium in Cincinnati, Ohio, United States. It is the ballpark of Major League Baseball's Cincinnati Reds, and opened on March 31, 2003, replacing Cinergy Field (formerly Riverfront Stadium), the Reds' former ballpark  from 1970 to 2002. Great American Insurance bought the naming rights to the new stadium at US$75 million for 30 years."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6337919325,
+          41.82969195
+        ]
+      },
+      "properties": {
+        "Title": "Guaranteed Rate Field",
+        "Subtitle": "333 W 35th St, Chicago, IL 60616",
+        "Description": "Guaranteed Rate Field, formerly Comiskey Park and U.S. Cellular Field, is a baseball stadium located on the South Side of Chicago, Illinois. It is the ballpark of Major League Baseball\u2019s Chicago White Sox, one of the city's two MLB teams, and is owned by the state of Illinois through the Illinois Sports Facilities Authority. Completed at a cost of US$137 million, the park opened as Comiskey Park on April 18, 1991, taking its name from the former ballpark at which the White Sox had played since 1910.\nGuaranteed Rate Field is situated just to the west of the Dan Ryan Expressway in Chicago's Armour Square neighborhood, adjacent to the more famous neighborhood of Bridgeport. The stadium was built directly across 35th Street from the original Comiskey Park, which was demolished to make room for a parking lot for the new venue. The location of Old Comiskey's home plate is represented by a marble plaque on the sidewalk next to Guaranteed Rate Field, with the foul lines painted in the parking lot. The spectator ramp across 35th Street is designed in such a way (partly curved, partly straight but angling east-northeast) that it echoes the contour of the old first-base grandstand."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.48139730530374,
+          39.0514715
+        ]
+      },
+      "properties": {
+        "Title": "Kauffman Stadium",
+        "Subtitle": "1 Royal Way, Kansas City, MO 64129",
+        "Description": "Kauffman Stadium (), often called \"The K\", is a baseball stadium located in Kansas City, Missouri. It is the home ballpark of Major League Baseball's Kansas City Royals. It is next door to Arrowhead Stadium, home of National Football League's Kansas City Chiefs. Both make up the Truman Sports Complex. The stadium is named for Ewing Kauffman, the founder and first owner of the Royals. It opened in 1973 as Royals Stadium and was named for Kauffman twenty years later on July 2, 1993. Since its last major renovation in 2009, the listed seating capacity is 37,903.\nKauffman Stadium was built specifically for baseball during an era when building multisport \"cookie-cutter\" stadiums was commonplace. It is often held up along with Dodger Stadium (1962) in Los Angeles as one of the best examples of modernist stadium design. It is currently the only stadium in the American League to be named after a person and is also one of eight stadiums in Major League Baseball that does not have a corporate-sponsored name. The stadium is the sixth-oldest stadium in the majors and has hosted the 1973 and the 2012 MLB All-Star Games, along with Royals home games during the 1980, 1985, 2014, and 2015 World Series. Between 2007 and 2009, Kauffman Stadium underwent a $250 million renovation, which included updates and upgrades in fan amenities, a new Royals hall of fame area, and other updates throughout the facility.\nIn 2022, the Royals announced intentions to build and open a new stadium before the team's lease agreement with Jackson County expires at the end of the 2030 MLB season. In 2024, the team announced their intention for the stadium to be located in downtown Kansas City's Crossroads district. The plan would involve displacing several small businesses that would be in the footprint of the stadium. In April 2024, Jackson County voters overwhelmingly rejected a ballot initiative to help fund the new stadium by a 16% margin. A financial analysis of the new stadium plans estimates that the cost to taxpayers would be between $4.4 billion to $6.4 billion. As of June 2024, the team was considering relocating to Kansas City, Kansas.\n\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.35523443643919,
+          29.75723205
+        ]
+      },
+      "properties": {
+        "Title": "Minute Maid Park",
+        "Subtitle": "501 Crawford St, Houston, TX 77002",
+        "Description": "Minute Maid Park, rebranding to Daikin Park on January 1, 2025, (originally Enron Field and formerly Astros Field) is a retractable roof stadium in Houston, Texas, United States. It opened in 2000 and is the home ballpark of the Houston Astros of Major League Baseball. The ballpark has a seating capacity of 41,168, which includes 5,197 club seats and 63 luxury suites with a natural grass playing field. It was built as a replacement for the Astrodome, the first domed sports stadium ever built, which opened in 1965.\n\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00838588569519,
+          38.87274095
+        ]
+      },
+      "properties": {
+        "Title": "Nationals Park",
+        "Subtitle": "1500 S Capitol St SE, Washington, DC 20003",
+        "Description": "Nationals Park is a baseball stadium along the Anacostia River in the Navy Yard neighborhood of Washington, D.C. It is the ballpark of Major League Baseball's Washington Nationals. Since its completion in 2008, it was the first LEED-certified green major professional sports stadium in the United States.\nDesigned by HOK Sport and Devrouax & Purnell Architects and Planners, the ballpark was initially expected to cost $670 million, with a later price tag of $693 million to build, financed almost entirely by D.C. This amount included $135 million in an upfront payment from taxpayer funds. The rest of the sum, about $535 million dollars, was funded by municipal bonds, putting the city deeply into debt. An additional $84.2 million was spent on transportation, art, and infrastructure upgrades, bringing the total cost to $783.9 million. The stadium has a capacity of 41,373. The Washington Monument and the Capitol building are visible from the upper decks on the first base side of the field.\n\nNationals Park hosted the 2018 Major League Baseball All-Star Game, the first All-Star Game to be played in Washington, D.C., since 1969. It hosted games 3, 4, and 5 of the 2019 World Series, the first in the city since 1933."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39026745425639,
+          37.7786119
+        ]
+      },
+      "properties": {
+        "Title": "Oracle Park",
+        "Subtitle": "24 Willie Mays Plaza, San Francisco, CA 94107",
+        "Description": "Oracle Park is a ballpark in the SoMa district of San Francisco, California. Since 2000, it has been the home of the San Francisco Giants of Major League Baseball (MLB). The stadium stands along San Francisco Bay; the section of the bay beyond Oracle Park's right field wall is unofficially known as McCovey Cove, in honor of former Giants player Willie McCovey. Previously named Pacific Bell Park, SBC Park, and AT&T Park, the stadium's current name was purchased by the Oracle Corporation in 2019.\nOracle Park has also hosted professional and college football games. The stadium was the home of the annual college postseason bowl game now known as the Redbox Bowl from its inaugural playing in 2002 until 2013, and also served as the temporary home for the California Golden Bears football team in 2011. Professionally, it was the home of the San Francisco Demons of the XFL and the California Redwoods of the United Football League.\nPublic transit access to the stadium is provided within San Francisco by Muni Metro or Muni Bus, from the Peninsula and Santa Clara Valley via Caltrain, and from parts of the Bay Area across the water via various ferries of San Francisco Bay. The Muni 2nd and King Station is directly outside the ballpark, the 4th and King Caltrain station is 1.5 blocks from the stadium, and the Oracle Park ferry terminal is outside the eastern edge of the ballpark beyond the center field bleachers."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.62033445397535,
+          39.28373125
+        ]
+      },
+      "properties": {
+        "Title": "Oriole Park at Camden Yards",
+        "Subtitle": "333 W Camden St, Baltimore, MD 21201",
+        "Description": "Oriole Park at Camden Yards, commonly known  as Camden Yards, is a baseball stadium in Baltimore, Maryland. It is the ballpark of Major League Baseball's Baltimore Orioles, and the first of the \"retro\" major league ballparks constructed during the 1990s and early 2000s. It was completed in 1992 to replace Memorial Stadium. The stadium is in downtown Baltimore, a few blocks west of the Inner Harbor in the Camden Yards Sports Complex.\nSince its opening, Oriole Park has been widely hailed as one of the best stadiums in baseball and credited with starting a wave of neotraditional ballparks after the cookie-cutter stadiums of the mid to late 20th century.\nSince construction on Oriole Park began in 1989, taxpayers have shouldered at least $1.3 billion of the stadium's costs. In 2023, the Orioles asked taxpayers to pay an additional $600 million for stadium renovations."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15687730689476,
+          32.70718815
+        ]
+      },
+      "properties": {
+        "Title": "Petco Park",
+        "Subtitle": "100 Park Blvd, San Diego, CA 92101",
+        "Description": "Petco Park is a ballpark in San Diego, California. It is the home of the San Diego Padres of Major League Baseball (MLB). The ballpark is located in the East Village neighborhood of downtown San Diego, adjacent to the Gaslamp Quarter. Petco Park opened in 2004, replacing San Diego Stadium as the Padres' home venue, where the team played from their inception in 1969 to 2003.    \nOn April 8, 2004, the Padres played their first game at the ballpark, defeating the San Francisco Giants 4\u20133 in 10 innings. Petco Park hosted the inaugural 2006 World Baseball Classic championship and the 2016 MLB All-Star Game. On October 9, 2024, Petco Park achieved an attendance record for baseball during a game against the Los Angeles Dodgers, with 47,773 people in attendance.   \nPetco Park features unique design elements, particularly the Western Metal Supply Co. building, a historic warehouse incorporated into the ballpark; its southeast corner serves as the left field foul pole. Gallagher Square, located beyond the outfield wall, includes a community park and viewing terrace, among other features open to the public during stadium off-hours."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0042564455515,
+          40.447916969673216
+        ]
+      },
+      "properties": {
+        "Title": "PNC Park",
+        "Subtitle": "115 Federal St, Pittsburgh, PA 15212",
+        "Description": "PNC Park is a baseball stadium on the North Shore of Pittsburgh, Pennsylvania. It is the fifth location to serve as the ballpark of Major League Baseball's Pittsburgh Pirates. Opened during the 2001 MLB season, PNC Park sits along the Allegheny River with a view of the Downtown Pittsburgh skyline. Constructed of steel and limestone, it has a natural grass playing surface and can seat 38,747 people for baseball. It was built just to the east of its predecessor, Three Rivers Stadium, which was demolished in 2001.\nPlans to build a new stadium for the Pirates originated in 1991 but did not come to fruition for five years. Funded in conjunction with Acrisure Stadium and the David L. Lawrence Convention Center, the park was built for $216 million in 24 months, faster than most modern stadiums. Built in the \"retro-classic\" style modeled after past venues like Pittsburgh's Forbes Field, PNC Park also introduced unique features, such as the use of limestone in the building's facade. The park has a riverside concourse, steel truss work, an extensive out-of-town scoreboard, and local eateries. Several tributes to former Pirate Roberto Clemente are incorporated into the ballpark, and the nearby Sixth Street Bridge was renamed in his honor. In addition to the Pirates' regular-season and postseason home games, PNC Park has hosted other events, including the 2006 Major League Baseball All-Star Game and numerous concerts.\nPNC Financial Services originally purchased the naming rights in 1998 for $30 million over 20 years, and currently holds the rights through 2031.\nSeveral writers have called PNC Park one of the best baseball stadiums in America, citing its location, views of the Pittsburgh skyline and Allegheny River, timeless design, and clear angles of the field from every seat."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68513191630367,
+          41.496090550000005
+        ]
+      },
+      "properties": {
+        "Title": "Progressive Field",
+        "Subtitle": "2401 Ontario St, Cleveland, OH 44115",
+        "Description": "Progressive Field is a baseball stadium in the downtown area of Cleveland, Ohio, United States. It is the ballpark of the Cleveland Guardians of Major League Baseball and, together with Rocket Mortgage FieldHouse, is part of the Gateway Sports and Entertainment Complex. It was ranked as MLB's best ballpark in a 2008 Sports Illustrated fan opinion poll.\nThe ballpark opened as Jacobs Field in 1994 to replace Cleveland Stadium, which the Guardians, then known as the Cleveland Indians, had shared with the Cleveland Browns of the National Football League. Since 2008, the facility has been named for Progressive Corporation, which purchased naming rights for $58 million over 16 years. The previous name came from team owners Richard and David Jacobs, who had acquired naming rights when the facility opened. The ballpark is still often referred to as \"The Jake\" based on its original name. The ballpark and arena are funded mainly by the passage of a sin tax in 1990 and both are owned by the Gateway Economic Development Corporation of Greater Cleveland, which is an appointed board of elected officials from the city of Cleveland and Cuyahoga County. \nWhen it opened, the listed seating capacity was 42,865 people and between 1995 and 2001 the team sold out 455 consecutive regular-season games. Modifications over the years resulted in several moderate changes to the capacity, peaking at 45,569 in 2010. As of 2022, the official seating capacity is listed at 34,830 people, making it the smallest MLB stadium by total maximum capacity, though additional fans can be accommodated through standing room areas and temporary seating. \nSince moving to Progressive Field, the Indians/Guardians have won 12 Central Division titles, three American League pennants and have hosted playoff games in 13 different seasons. In the 1997 season, it became one of the few facilities in baseball history to host the MLB All-Star Game and games of the World Series in the same season. The stadium has hosted games of the World Series three times in 1995, 1997, and 2016."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20293232639798,
+          37.75027335
+        ]
+      },
+      "properties": {
+        "Title": "RingCentral Coliseum",
+        "Subtitle": "7000 Coliseum Way, Oakland, CA 94621",
+        "Description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3339628,
+          47.5918524
+        ]
+      },
+      "properties": {
+        "Title": "T-Mobile Park",
+        "Subtitle": "1250 1st Ave S, Seattle, WA 98134",
+        "Description": "T-Mobile Park is a retractable roof ballpark in Seattle, Washington, United States. It is the home stadium of the Seattle Mariners of Major League Baseball and has a seating capacity of 47,929. It is in Seattle's SoDo neighborhood, near the western terminus of Interstate 90 and is owned and operated by the Washington State Major League Baseball Stadium Public Facilities District. The first game at the stadium was played on July 15, 1999.\nDuring the 1990s, the suitability of the Mariners' original stadium\u2014the Kingdome\u2014as an MLB facility came under question, and the team's ownership group threatened to relocate the team. In September 1995, King County voters defeated a ballot measure to secure public funding for a new baseball stadium. Shortly thereafter, the Mariners' first appearance in the MLB postseason and their victory in the 1995 American League Division Series (ALDS) revived public desire to keep the team in Seattle. As a result, the Washington State Legislature approved an alternate means of funding for the stadium with public money. The site, just south of the Kingdome, was selected in September 1996 and construction began in March 1997. The bonds issued to finance the stadium were retired on October 1, 2011, five years earlier than anticipated.\nT-Mobile Park is also used for amateur baseball events, including the Washington Interscholastic Activities Association high school state championships and one Washington Huskies game per season. Major non-baseball events that have been held at T-Mobile Park include the 2001 Seattle Bowl and WrestleMania XIX in 2003, which attracted the stadium's record attendance of 54,097.\nThe stadium was originally named Safeco Field under a 20-year naming-rights deal with Seattle-based Safeco Insurance. T-Mobile acquired the naming rights on December 19, 2018, and the name change took effect on January 1, 2019.\n\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27786434576453,
+          44.98168445
+        ]
+      },
+      "properties": {
+        "Title": "Target Field",
+        "Subtitle": "1 Twins Way, Minneapolis, MN 55403",
+        "Description": "Target Field is a baseball stadium in the historic warehouse district of downtown Minneapolis. Since its opening in 2010, the stadium has been the ballpark of Major League Baseball's Minnesota Twins. It is named for Target Corporation, which is headquartered in Minneapolis. The stadium hosted the 2014 Major League Baseball All-Star Game. It has also served as the home of other local and regional baseball events.\nThe ballpark is open-air; though originally designed for baseball, it has also hosted football, soccer, hockey games, and concerts.\nIn 2010, ESPN The Magazine ranked Target Field as the number one baseball stadium experience in North America."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.64835870986738,
+          27.768512072035513
+        ]
+      },
+      "properties": {
+        "Title": "Tropicana Field",
+        "Subtitle": "1 Tropicana Dr, St. Petersburg, FL 33705",
+        "Description": "Tropicana Field (commonly known as the Trop) is a multi-purpose domed stadium located in St. Petersburg, Florida, United States. \"The Trop\" has been the home of the Tampa Bay Rays of Major League Baseball since the team's inaugural season in 1998. The stadium is also used for college football, and from December 2008 to December 2017 was the home of the St. Petersburg Bowl, an annual postseason bowl game. The venue is the only non-retractable domed stadium in Major League Baseball. Tropicana Field is the smallest MLB stadium by seating capacity when obstructed-view rows in the uppermost sections are covered with tarps as they are for most Rays games.\nTropicana Field opened in 1990 and was originally known as the Florida Suncoast Dome. In 1993, the Tampa Bay Lightning moved to the facility and its name was changed to the ThunderDome until the team moved to their new home in downtown Tampa in 1996. In October 1996, Tropicana Products, a fruit juice company then based in nearby Bradenton, signed a 30-year naming rights deal.\nTropicana Field's location and design (especially the ceiling catwalks) have been widely criticized, and it is often cited as one of the worst stadiums in Major League Baseball. Major League Baseball itself has cited the need to replace Tropicana Field as one of the primary obstacles to future MLB expansion. \nIn 2023, the Tampa Bay Rays announced a deal with local politicians to build Gas Plant Stadium, a new stadium near Tropicana Field at an expected cost of $1.2 billion, half of which would fall on taxpayers. The St. Petersburg City Council blocked a proposal to allow St. Petersburg citizens to express their view on the stadium subsidy in an advisory referendum.\nMuch of the translucent, fiberglass roof membrane of Tropicana Field was destroyed by Hurricane Milton on October 9, 2024. The stadium had been set up to serve as a base for relief workers. Due to the plans to break ground on a new stadium for the Rays, the future of the stadium is undetermined; the Rays plan to play their 2025 season at George M. Steinbrenner Field in Tampa, with the possibility of a renovation by 2026."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.46853422885837,
+          33.89070855
+        ]
+      },
+      "properties": {
+        "Title": "Truist Park",
+        "Subtitle": "755 Battery Ave SE, Atlanta, GA 30339",
+        "Description": "Truist Park is a baseball stadium in the Atlanta metropolitan area, approximately 10 miles (16 km) northwest of downtown Atlanta in the unincorporated community of Cumberland, in Cobb County, Georgia. Opened in 2017, it is the ballpark of Major League Baseball's Atlanta Braves. Previously named SunTrust Park, the ballpark was renamed after SunTrust Bank became Truist Financial in 2020.\nThe stadium was constructed in a public\u2013private partnership with a project budget of $622 million. Cobb-Marietta Coliseum & Exhibit Hall Authority issued up to $397 million in bonds for the project. The county raised an additional $14 million from transportation taxes and $10 million cash from businesses in the Cumberland Community Improvement District. The Braves contributed the remaining money for the park and The Battery Atlanta. In March 2015, a security filing from Braves owners Liberty Media allotted $672 million for Truist Park and $452 million for The Battery Atlanta, which adds up to a total cost of above $1.1 billion. The Braves will spend $181 million over 30 years to help pay off the county's bonds on the project. \nThe Braves hosted a soft opening for season ticket holders on March 31, 2017, in a preseason game against the New York Yankees. The first regular season game at the park was held on April 14, 2017, against the San Diego Padres."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65555899980043,
+          41.94818455
+        ]
+      },
+      "properties": {
+        "Title": "Wrigley Field",
+        "Subtitle": "1060 W Addison St, Chicago, IL 60613",
+        "Description": "Wrigley Field  is a ballpark on the North Side of Chicago, Illinois. It is the home ballpark of Major League Baseball's Chicago Cubs, one of the city's two MLB franchises. It first opened in 1914 as Weeghman Park for Charles Weeghman's Chicago Whales of the Federal League, which folded after the 1915 baseball season. The Cubs played their first home game at the park on April 20, 1916, defeating the Cincinnati Reds 7\u20136 in 11 innings. Chewing gum magnate William Wrigley Jr. of the Wrigley Company acquired the Cubs in 1921. It was named Cubs Park from 1920 to 1926, before being renamed Wrigley Field in 1927. The stadium currently seats 41,649 people and is the second stadium to be named Wrigley Field, as a Los Angeles ballpark with the same name opened in 1925.\nIn the North Side community area of Lakeview in the Wrigleyville neighborhood, Wrigley Field is on an irregular block bounded by Clark and Addison streets to the west and south, and Waveland and Sheffield avenues to the north and east. Wrigley Field is nicknamed \"The Friendly Confines\", a phrase popularized by Hall of Fame shortstop and first baseman Ernie Banks. The oldest park in the National League, it is the second-oldest in the majors after Fenway Park (1912), and the only remaining Federal League park.  The park was designated a National Historic Landmark in 2020.\nWrigley Field's features include its ivy-covered brick outfield wall, distinctive wind patterns off Lake Michigan, the red marquee over the main entrance, and the hand-turned scoreboard. The stadium is situated in a primarily residential neighborhood without parking lots, and spectators have views from the rooftops behind the outfield. Additionally, it was the last Major League park to have lights installed for night games, in 1988. From 1921 to 1970, the stadium was also home to the Chicago Bears of the National Football League, and from 1931 to 1938, it was the home of the Chicago Cardinals (now the Arizona Cardinals) of the National Football League. The elevation of its playing field is 600 feet (180 m) above sea level."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.19392053372312,
+          38.6225541
+        ]
+      },
+      "properties": {
+        "Title": "Busch Stadium",
+        "Subtitle": "700 Clark Ave, St. Louis, MO 63102",
+        "Description": "Busch Stadium (also referred to informally as \"New Busch Stadium\" or \"Busch Stadium III\") is a baseball stadium located in St. Louis, Missouri. It is the home of Major League Baseball's St. Louis Cardinals. It has a seating capacity of 44,383, with 3,706 club seats and 61 luxury suites. It replaced Busch Memorial Stadium (aka Busch Stadium II) and occupies a portion of that stadium's former footprint. A commercial area dubbed Ballpark Village was built adjacent to the stadium over the remainder of the former stadium's footprint.\nThe stadium opened on April 4, 2006 with an exhibition between the minor league Memphis Redbirds and Springfield Cardinals (both affiliates of the St. Louis Cardinals), which Springfield won 5\u20133 with right-hander Mike Parisi recording the first win. The first official major league game occurred on April 10, 2006, as the Cardinals defeated the Milwaukee Brewers 6\u20134 behind an Albert Pujols home run and winning pitcher Mark Mulder.\nIn 2004, then-Anheuser-Busch president August Busch IV announced that the brewing giant had purchased 20-year naming rights for the stadium. Team owner William DeWitt Jr. said: \"From the day we began planning for the new ballpark, we wanted to keep the name 'Busch Stadium.' August Busch IV and Anheuser-Busch share our vision for continuing that tradition for our great fans and the entire St. Louis community.\"\nIt is the third stadium in St. Louis to carry the name Busch Stadium. Sportsman's Park was renamed Busch Stadium in 1953; then-team owner August Busch Jr. had planned to name it Budweiser Stadium, but at the time league rules prohibited naming a venue after an alcoholic beverage. Busch named the stadium after himself, and the Anheuser-Busch corporation later introduced \"Busch Beer\". The first Busch Stadium closed in 1966 and both the baseball Cardinals, and the National Football League (NFL)'s team of the same name (now the Arizona Cardinals) moved to a new multi-purpose stadium, named Busch Memorial Stadium (Busch Stadium II)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9728106,
+          43.0287036
+        ]
+      },
+      "properties": {
+        "Title": "American Family Field",
+        "Subtitle": "1 Brewers Way, Milwaukee, WI 53214",
+        "Description": "American Family Field is a retractable roof stadium in Milwaukee, Wisconsin. Located southwest of the intersection of Interstate 94 and Brewers Boulevard, it is the ballpark of Major League Baseball's Milwaukee Brewers. It opened in 2001 as a replacement for Milwaukee County Stadium. The stadium was previously called Miller Park as part of a $40 million naming rights deal with Miller Brewing Company, which expired at the end of 2020.\nAmerican Family Field features North America's only fan-shaped convertible roof, which can open and close in less than 10 minutes. Large panes of glass allow natural grass to grow, augmented with heat lamp structures wheeled out across the field during the off-season.\nThe stadium opened in 2001 at a cost of $392 million. Between 1996 and 2000, taxpayers paid $609 million for the construction costs through higher sales taxes. In 2023, Wisconsin lawmakers entered into an agreement with the Milwaukee Brewers to spend nearly half a billion dollars of public funds on stadium renovations."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.166389,
+          39.905833
+        ]
+      },
+      "properties": {
+        "Title": "Citizens Bank Park",
+        "Subtitle": "1 Citizens Bank Way, Philadelphia, PA 19148",
+        "Description": "Citizens Bank Park is a baseball stadium in Philadelphia, Pennsylvania, in the city's South Philadelphia Sports Complex. Home to Major League Baseball's Philadelphia Phillies, the stadium opened April 3, 2004, and hosted its first regular-season baseball game nine days later, with the Phillies losing to the Cincinnati Reds, 4–1. It is named after Citizens Financial Group."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.926389,
+          40.829167
+        ]
+      },
+      "properties": {
+        "Title": "Yankee Stadium",
+        "Subtitle": "1 E 161st St, Bronx, NY 10451",
+        "Description": "Yankee Stadium is a baseball stadium located in the Bronx in New York City. It is the home field of Major League Baseball’s New York Yankees and New York City FC of Major League Soccer."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.219722,
+          25.778056
+        ]
+      },
+      "properties": {
+        "Title": "loanDepot Park",
+        "Subtitle": "501 Marlins Way, Miami, FL 33125",
+        "Description": "LoanDepot Park (officially stylized as loanDepot park, and named Marlins Park until 2021) is a retractable roof stadium located in Miami, Florida, United States. It is the ballpark of Major League Baseball's Miami Marlins.[15] It is located on 17 acres (6.9 ha) on the site of the former Miami Orange Bowl in Little Havana about 2 miles (3 km) west of Downtown Miami. Construction was completed in March 2012 for the 2012 season."
+      }
+    }
+  ]
+}

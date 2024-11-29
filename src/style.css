@@ -1,0 +1,26 @@
+.root {
+    display: flex;
+    height: 100%;
+    /* Fill the viewport height */
+}
+
+.content {
+    flex-grow: 1;
+    padding: 0;
+    /* Removed margin-left */
+}
+
+.map {
+    height: 100%;
+    /* Fill parent container's height */
+    width: 100%;
+    /* Fill parent container's width */
+}
+
+.marker {
+    background-image: url('https://radish-map-maker.s3-us-west-2.amazonaws.com/google-geo-icon.png');
+    background-size: cover;
+    width: 56px;
+    height: 56px;
+    cursor: pointer;
+}

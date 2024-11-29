@@ -1,0 +1,59 @@
+{
+  "name": "material-ui-location-pin-map",
+  "version": "1.0.0",
+  "description": "<LocationPinMap> component for material-ui",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "screenshots"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir dist --copy-files",
+    "prepare": "npm run build",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/caltonji/material-ui-location-pin-map.git"
+  },
+  "keywords": [
+    "react",
+    "map"
+  ],
+  "author": "Chris Altonji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caltonji/material-ui-location-pin-map/issues"
+  },
+  "homepage": "https://github.com/caltonji/material-ui-location-pin-map#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.25.9",
+    "@chromatic-com/storybook": "^3.2.2",
+    "@storybook/addon-essentials": "^8.4.5",
+    "@storybook/addon-interactions": "^8.4.5",
+    "@storybook/addon-onboarding": "^8.4.5",
+    "@storybook/blocks": "^8.4.5",
+    "@storybook/react": "^8.4.5",
+    "@storybook/react-vite": "^8.4.5",
+    "@storybook/test": "^8.4.5",
+    "babel-plugin-transform-assets": "^1.0.2",
+    "json-loader": "^0.5.7",
+    "prop-types": "^15.8.1",
+    "storybook": "^8.4.5",
+    "vite-plugin-static-copy": "^2.2.0"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.0.0",
+    "@emotion/styled": "^11.0.0",
+    "@mui/icons-material": "^5.0.0",
+    "@mui/material": "^5.0.0",
+    "mapbox-gl": "^3.8.0"
+  }
+}
