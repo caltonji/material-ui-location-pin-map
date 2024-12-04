@@ -33,7 +33,6 @@ const SidebarItem = ({ location, selectedId, setSelectedId }) => {
                                 component="span"
                                 variant="body2"
                                 sx={{
-                                    display: 'block',
                                     color: 'text.secondary',
                                     mt: location.properties.Subtitle ? 1 : 0,
                                     overflow: 'hidden',

@@ -84,14 +84,13 @@ const Map = ({ data, accessToken, selectedId, setSelectedId, onLoad }) => {
     }, [selectedId, data]);
 
     const fitMapToMarkers = (geojsonData) => {
-        if (!map.current || !geojsonData) return;
+        if (!map.current || !geojsonData || !geojsonData?.features?.length) return;
 
         // create bounds object
         const bounds = new mapboxgl.LngLatBounds();
-        geojsonData.features.forEach(feature => {
+        geojsonData?.features?.forEach(feature => {
             bounds.extend(feature.geometry.coordinates);
         });
-
         // Fit bounds immediately without animation
         map.current.fitBounds(bounds, {
             padding: { top: 50, bottom: 50, left: 50, right: 50 },
