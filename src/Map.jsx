@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import { Box } from '@mui/material';
 import './style.css';
-import ReactDOM from 'react-dom';
+import ReactDOM from "react-dom/client";
 import Popup from './Popup';
 
 
@@ -210,13 +210,16 @@ const Map = ({ data, accessToken, selectedId, setSelectedId, onLoad }) => {
             closeOnClick: true
         });
 
-        ReactDOM.render(
+        const root = ReactDOM.createRoot(popupDiv); // Create a root on the popupDiv
+        root.render(
             <Popup
                 title={feature.properties.Title}
                 subtitle={feature.properties.Subtitle}
-                onClose={() => popup.remove()}
-            />,
-            popupDiv
+                onClose={() => {
+                    root.unmount(); // Unmount the component when the popup is closed
+                    popup.remove();
+                }}
+            />
         );
 
         popup
