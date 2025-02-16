@@ -28,6 +28,7 @@ const Container = ({ data, accessToken, title }) => {
             display: 'flex',
             width: '100%',
             height: 'calc(100vw / 3)',
+            minHeight: '500px',
             maxHeight: '800px',
             overflow: 'hidden',
             visibility: isMapLoaded ? 'visible' : 'hidden',
