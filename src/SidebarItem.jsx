@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { ListItem, ListItemText, Typography } from '@mui/material';
+import { ListItem, ListItemText, Typography, Box } from '@mui/material';
 
 const SidebarItem = ({ location, selectedId, setSelectedId }) => {
     return (
@@ -27,6 +27,14 @@ const SidebarItem = ({ location, selectedId, setSelectedId }) => {
                             >
                                 {location.properties.Subtitle}
                             </Typography>
+                        )}
+                        {location.properties.Url && (
+                            <Box
+                                component="img"
+                                src={location.properties.Url}
+                                alt={location.properties.Title}
+                                sx={{ width: '100%', height: 'auto', mt: 1 }}
+                            />
                         )}
                         {location.properties.Description && (
                             <Typography
