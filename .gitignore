@@ -5,3 +5,4 @@ storybook-static
 dist
 .env
 embeddable/
+PUBLISH.md
